@@ -1,4 +1,4 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
+// function that returns a license badge based on which license is passed in
 
 const { default: ListPrompt } = require("inquirer/lib/prompts/list")
 
@@ -18,9 +18,7 @@ function renderLicenseBadge(license) {
   }
 }
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
-// the actual link 
+// function that returns the license link
 function renderLicenseLink(license) {
   if (license==="MIT License"){
     return "https://opensource.org/licenses/MIT"
@@ -36,9 +34,7 @@ function renderLicenseLink(license) {
   }
 }
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
-// short summary of license that you pick 
+// function that returns the license section of README
 function renderLicenseSection(license) {
   if (license==="MIT License"){
     return `Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
