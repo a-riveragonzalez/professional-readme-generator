@@ -40,13 +40,9 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile(fileName, data, (err)=>{
-        if (err){
-            console.log("error")
-        } else {
-            console.log("README Generated")
-        }
-    })
+    fs.writeFile(fileName, data, (err)=>
+        (err) ? console.log("error") : console.log("README Generated") //if else 
+    )
 }
 
 // function to initialize app
@@ -55,13 +51,6 @@ function init() {
     .then((answers)=>{
         const markdownOutput = generateMarkdown(answers);
         writeToFile(`${answers.projectTitle}-README.md`, markdownOutput)
-        // fs.writeFile("README.md", markdownOutput, (err)=>{
-        //     if (err){
-        //         console.log("error")
-        //     } else {
-        //         console.log("README Generated")
-        //     }
-        // })
     })
 }
 
