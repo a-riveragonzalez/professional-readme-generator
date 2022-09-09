@@ -70,7 +70,7 @@ function init() {
     inquirer.prompt (questions)
     .then((answers)=>{
         const markdownOutput = generateMarkdown(answers);
-        writeToFile(`${answers.projectTitle}-README.md`, markdownOutput)
+        writeToFile("README.md", markdownOutput)
     })
 }
 
