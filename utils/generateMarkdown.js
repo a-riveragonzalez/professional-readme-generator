@@ -93,12 +93,12 @@ ${answers.projectContributing}
 ## Tests
 ${answers.projectTests}
 ## Questions
-${answers.username}
 If you have any questions, feel free to reach me at : 
 ${answers.email}
+
+To check out more of my work: 
+https://github.com/${answers.username}
 `;
 }
-
-//todo ^ link to gitHub profile
 
 module.exports = generateMarkdown;
