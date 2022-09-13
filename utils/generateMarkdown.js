@@ -1,6 +1,6 @@
 // function that returns a license badge based on which license is passed in
 
-const { default: ListPrompt } = require("inquirer/lib/prompts/list")
+const { default: ListPrompt } = require("inquirer/lib/prompts/list") //? what is this?
 
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
@@ -101,4 +101,4 @@ https://github.com/${answers.username}
 `;
 }
 
-module.exports = generateMarkdown;
+module.exports = generateMarkdown; //? is this exporting the function or the page?

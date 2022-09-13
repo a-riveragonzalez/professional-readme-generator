@@ -1,18 +1,18 @@
-# asdlfjk
+# Professional README Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-asdflj
+This is a command-line application that prompts a suer for information about an application repository. It then takes that information and creates a porfessional README.md file. The technologies used are: JavaScrpt, NodeJS, and Inquirer.
 ## Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 ## Installation
-asdflja
+N/A
 ## Usage
-asdfljk
+N/A
 ## Credits
-asdflkj
+N/A
 ## License
 MIT License
 
@@ -24,12 +24,15 @@ The above copyright notice and this permission notice shall be included in all c
     
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## How to Contribute
-alsdjf
+N/A
 ## Tests
-asldfjk
+N/A
 ## Questions
 If you have any questions, feel free to reach me at : 
-asldkfj
+arelyrivera1996@gmail.com
 
 To check out more of my work: 
-https://github.com/alksdjf
+https://github.com/a-riveragonzalez
+
+## Preview
+https://drive.google.com/file/d/1LP4hgyAcIRDfT4IlQrZFSQFjztglglDZ/view
