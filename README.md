@@ -1,7 +1,7 @@
 # Professional README Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-This is a command-line application that prompts a suer for information about an application repository. It then takes that information and creates a porfessional README.md file. The technologies used are: JavaScrpt, NodeJS, and Inquirer.
+This is a command-line application that prompts a user for information about an application repository. It then takes that information and creates a porfessional README.md file. The technologies used are: JavaScrpt, NodeJS, and Inquirer.
 ## Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -34,5 +34,5 @@ arelyrivera1996@gmail.com
 To check out more of my work: 
 https://github.com/a-riveragonzalez
 
-## Preview
-https://drive.google.com/file/d/1LP4hgyAcIRDfT4IlQrZFSQFjztglglDZ/view
+## Demo
+https://drive.google.com/file/d/1rZDX9GjlLrWi_0QusmohEDBV_CXsHNap/view?usp=sharing
