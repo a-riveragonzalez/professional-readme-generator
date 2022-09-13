@@ -36,3 +36,6 @@ https://github.com/a-riveragonzalez
 
 ## Demo
 https://drive.google.com/file/d/1rZDX9GjlLrWi_0QusmohEDBV_CXsHNap/view?usp=sharing
+
+## Preview
+![readme-generator-gif](readme-generator.gif)
