@@ -101,4 +101,4 @@ https://github.com/${answers.username}
 `;
 }
 
-module.exports = generateMarkdown; //? is this exporting the function or the page?
+module.exports = generateMarkdown; //this exporting the function
